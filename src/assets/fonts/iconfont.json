@@ -1,0 +1,100 @@
+{
+  "id": "1475232",
+  "name": "sell",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "947474",
+      "name": "店铺",
+      "font_class": "dianpu",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "1028071",
+      "name": "钱",
+      "font_class": "qian",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "1164686",
+      "name": "首页",
+      "font_class": "liuliangyunpingtaitubiao02",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "1197184",
+      "name": "商品",
+      "font_class": "shangpin",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "1206766",
+      "name": "订单",
+      "font_class": "dingdan",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "4186487",
+      "name": "钱",
+      "font_class": "qian1",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "4195141",
+      "name": "订单",
+      "font_class": "dingdan1",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "6512625",
+      "name": "账号",
+      "font_class": "zhanghao",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "6887983",
+      "name": "钱 金融 支付",
+      "font_class": "qian2",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "8084572",
+      "name": "统计",
+      "font_class": "tongji",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "9102307",
+      "name": "订单",
+      "font_class": "ico-jrddzs",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "9102319",
+      "name": "订单",
+      "font_class": "ico-shrwd",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "11124956",
+      "name": "首页",
+      "font_class": "1",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    }
+  ]
+}
